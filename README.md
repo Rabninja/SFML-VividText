@@ -3,19 +3,19 @@
 `VividText` is a class designed with [SFML-2.4.x](https://github.com/SFML/SFML/tree/2.4.x) in mind. It aims to provide a more modular & featureful text experience for SFML. This is done by allowing instances `VividText` to have different types of colors, fonts, sizes, etc, inside of a single string.
 
 ## Features
-| Feature          | Supported          |
-|:----------------:|:------------------:|
-|Fill Color        | :white_check_mark: |
-|Outline Color     | :white_check_mark: |
-|Outline Thickness | :white_check_mark: |
-|Font              | :white_check_mark: |
-|Font Size         | :white_check_mark: |
-|Text Style        | :white_check_mark: |
-|Line Spacing      | :x:                |
-|Letter Spacing    | :x:                |
-|Highlighting      | :x:                |
+| Feature                    | Supported          |
+|:--------------------------:|:------------------:|
+| Flexible Fill Color        | :white_check_mark: |
+| Flexible Outline Color     | :white_check_mark: |
+| Flexible Outline Thickness | :white_check_mark: |
+| Flexible Font              | :white_check_mark: |
+| Flexible Font Size         | :white_check_mark: |
+| Flexible Text Style        | :white_check_mark: |
+| Flexible Line Spacing      | :x:                |
+| Flexible Letter Spacing    | :x:                |
+| Flexible Highlighting      | :x:                |
 
-The features that aren't supported will hopefully be implemented some time future.
+The unsupported features will be implemented some time in the future.
 
 ## Example
 ```c++

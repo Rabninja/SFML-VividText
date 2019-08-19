@@ -14,8 +14,9 @@
 | Flexible Line Spacing      | :x:                |
 | Flexible Letter Spacing    | :x:                |
 | Flexible Highlighting      | :x:                |
+| Markdown Language          | :x:
 
-The unsupported features will be implemented some time in the future.
+Unsupported features will be implemented some time in the future.
 
 ## Example
 ```c++
